@@ -1,0 +1,23 @@
+INSTRUCTIONS:
+STRING MEMORIZATION:
+- A,B,C,D: Select answer
+
+COLOR MATCH:
+- R(ed), Y(ellow), G(reen): Press buttons to match squares as they 
+move into their respective matching colors
+
+MATH GAME
+- Number keys (0,1,2,3,4,5,6,7,8,9): Answer question using number keys
+
+Good luck.
+
+
+
+
+
+
+
+
+
+
+If you get anything higher than like 45 seconds ur nuts
